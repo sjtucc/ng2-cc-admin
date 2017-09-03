@@ -3,6 +3,7 @@
     "baseUrl": "",
     "declaration": false,
     "emitDecoratorMetadata": true,
+	"noStrictGenericChecks": true,
     "experimentalDecorators": true,
     "lib": [
       "es2016",
